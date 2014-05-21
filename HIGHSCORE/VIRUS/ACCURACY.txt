@@ -1,0 +1,6 @@
+jack 90
+teacher 89
+jack 86
+jack 86
+shud 72
+test 0

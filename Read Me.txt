@@ -1,0 +1,27 @@
+Ok, here is the how to open the file(just incase if you dont know)
+
+
+
+dubble click on "Run This File.py"
+and the game will start......
+
+
+this is for mr.lu
+
+You have a spical account XD
+the ID is : teacher
+the pass is: 123
+you will have 99999 exp so you can use all the notes
+in note selection.
+
+if you cant beat the game because you always die,
+then: 
+
+1. goto MUSIC_GAME_FINAL.py
+2. right click on the file
+3. click on the option "Edit with Wing"
+4. wait 4 it to load
+5. goto line 427
+6. change the value of LIFE_LOSE from 32.8 to 0
+7. save
+8. restart the game

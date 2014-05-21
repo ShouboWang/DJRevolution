@@ -1,0 +1,6 @@
+teacher 3545
+jack 1764
+jack 991
+shud 851
+jack 481
+test 0
